@@ -1,0 +1,15 @@
+# Proposta de estudo
+Foi-se proposto entender as seguintes informações com base as informações da base estudada.
+
+a) Interessado a saber quais são os municípios com piores IDHM, você decidiu utilizar o conceito de quartis. Qual seria o valor que separaria os 25% dos municípios com IDHM mais baixos?											
+
+b) Considerando esses municípios com menor IDHM, há uma concentração em algum estado ou distrito?
+
+c) Replicando essa classificação ao IDHM dos municípios, qual seria a sua análise da situação atual do Brasil e cada região?	
+
+d) Construa um boxplot da variável IDHM_Educacao por região: NO, NE, SE, S e CO. Comente as diferenças e semelhanças entre os gráficos.
+
+e) Para a região com a menor média da variável IDHM_Educacao, vamos priorizar os municípios com mais crianças. Dessa forma, identifique os municípios que estão acima do 3º quartil nacional em relação a quantidade de crianças com idade entre 1 e 4 anos (variável IBGE_1-4).										
+																																																					
+
+# Resultados obtidos
